@@ -1,5 +1,5 @@
 <h1>To-Do List App</h1>
-<img src="representation.png">
+<img src="representation.png" width="400">
 <p>This is a simple to-do list web application that allows users to add, update, delete, and view tasks. The application uses localStorage to store task data locally in the user's browser.</p>
 
 <h2>Features</h2>
